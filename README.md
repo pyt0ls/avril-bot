@@ -1,9 +1,9 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=Kn0w-Bot+𝐕1.0;TOTALMENTE+GRÁTIS+✰✰✰;100%+CONFIÁVEL+✰✰✰;✰-BY-PYTOLS-✰"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=FF0000&center=falso&vCenter=falso&lines=avril-Bot+𝐕1.0;TOTALMENTE+GRÁTIS+✰✰✰;100%+CONFIÁVEL+✰✰✰;✰-BY-PYTOLS-✰"> 
 
 # [<img src='https://i.imgur.com/47Ckzun.jpeg' />](https://instagram.com/pytols)
 
 <p align="center">
-<a href="#"><img title="KN0W BOT" src="https://img.shields.io/badge/KN0W-BOT-blue?&style=for-the-badge"></a>
+<a href="#"><img title="AVRIL BOT" src="https://img.shields.io/badge/KN0W-BOT-blue?&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
 ---------------------------
 
-O kn0w é um bot multifuncional gratuito para Discord, perfeito para gerenciar, moderar e divertir sua comunidade com comandos de Economia, Moderação, Utilidade, ChatGPT e muito mais.
+O avril é uma bot multifuncional gratuita para Discord, perfeita para gerenciar, moderar e divertir sua comunidade com comandos de Economia, Moderação, Utilidade, ChatGPT e muito mais.
 
 ---------------------------
 
@@ -54,7 +54,7 @@ https://files.fm/f/ubgvm6y39n
 ## <img src="https://cdn.discordapp.com/emojis/1382068285054652539.png?v=1&size=48&quality=lossless" height="25px"> Precisa de Suporte?
 
 
-≪「𝐒𝐞𝐫𝐯𝐞𝐫 ﷼ 𝐊𝐧𝟎𝐰」≫
+≪「server ﷼ avril」≫
 
 https://discord.gg/NmWy87RjFe
 
@@ -64,14 +64,14 @@ https://discord.gg/NmWy87RjFe
 
 Clique no link e adicione diretamente!
 
-https://discord.com/oauth2/authorize?client_id=1361444936880492604&permissions=8&integration_type=0&scope=bot
+https://discord.com/oauth2/authorize?client_id=1351683702333374494&permissions=8&integration_type=0&scope=bot
 
 
 ## Hospedagem <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
 
 ---------------------------
 
-https://hosting-kn0w.net/
+https://avril.hosting.net/
 
 ---------------------------
 
