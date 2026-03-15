@@ -22,7 +22,7 @@
 
 _-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
 
-## <img src="https://kn0w.infy.uk/bot.jpg" height="25px"> Sobre Kn0w!
+## <img src="https://kn0w.infy.uk/bot.jpg" height="25px"> Sobre Avril!
 
 ---------------------------
 
